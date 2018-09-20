@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class ExceptionResponse
 {
-    private Date timestamp;
+    private Date   timestamp;
     private String message;
     private String details;
 

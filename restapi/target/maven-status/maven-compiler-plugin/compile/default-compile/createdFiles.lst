@@ -1,2 +1,11 @@
-com/in28minutes/restfulservices/restapi/controller/HelloWorldController.class
-com/in28minutes/restfulservices/restapi/RestapiApplication.class
+com\in28minutes\restfulservices\restapi\exception\CustomizedResponseEntityExceptionHandler.class
+com\in28minutes\restfulservices\restapi\controller\hellowold\HelloWorldController.class
+com\in28minutes\restfulservices\restapi\persistence\GenericConfigDaoImpl.class
+com\in28minutes\restfulservices\restapi\controller\GenericController.class
+com\in28minutes\restfulservices\restapi\persistence\UserDaoImpl.class
+com\in28minutes\restfulservices\restapi\controller\user\UserResourceController.class
+com\in28minutes\restfulservices\restapi\exception\ExceptionResponse.class
+com\in28minutes\restfulservices\restapi\model\user\User.class
+com\in28minutes\restfulservices\restapi\RestapiApplication.class
+com\in28minutes\restfulservices\restapi\controller\user\exception\UserResourceNotFoundException.class
+com\in28minutes\restfulservices\restapi\model\helloworld\HelloWorld.class
